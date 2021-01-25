@@ -1,0 +1,23 @@
+{
+  "name": "project_restaurant_page",
+  "version": "1.0.0",
+  "description": "'project restaurant page for SHA'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasokaloutsa/Project_Restaurant_Page.git"
+  },
+  "author": "vaso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasokaloutsa/Project_Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/vasokaloutsa/Project_Restaurant_Page#readme",
+  "devDependencies": {
+    "webpack": "^5.16.0",
+    "webpack-cli": "^4.4.0"
+  }
+}

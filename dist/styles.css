@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ul,li,a {text-decoration:none;}
+
+
+.nav-elements{
+    display:inline-block;
+    padding:10px;
+    margin:5px;
+    border: 1px solid rgb(255, 151, 14);
+    border-radius: 14%;
+}
+
+#navbar{
+    text-align:center;
+    margin: 30px;
+}
+
+
+li{
+    color:rgb(46, 136, 139);
+    font-size:1.2em;
+
+}
+
+li:hover{
+    color : rgb(166, 172, 189);
+    cursor:pointer;}
+
+.copyrights{
+    position:fixed;
+    bottom:0;
+    color:rgb(100, 101, 102);
+}
+
+h1{
+    font-size: 1.9 em;
+    color: darkcyan;
+    text-align:center;
+    margin: 10px;
+}
+
+.restaurant-image{
+    display: block;
+    margin: 0 auto;
+    width : 50%;
+    padding: 2% 1%;
+    border:10px solid rgb(89, 209, 209);
+}
+
+.contact-image{
+    display: block;
+    margin: 0 auto;
+    width :70%;
+    border:10px solid rgb(89, 209, 209);
+
+}
+
+.paragraphs-styles{
+    font-size: 1.2em;
+    color:darkcyan;
+    text-align:center;
+}
+
+.menu-li{
+    width:60%;
+    display:flex;
+    justify-content:space-between;
+    margin: 5%;
+
+}
+.menu{
+ 
+    width: 30%;
+    border:1px solid rgb(46, 136, 139);
+}
